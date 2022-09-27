@@ -10,7 +10,7 @@ export const homepageText = `
   <p>Welcome to The World Class League sponsored by your Local World Class Big Y Market.</p>
   <p>Founded in 2021, the World Class League began as keeper league amongst a small group of friends. In 2022, the league converted into a full-fledged dynasty league. Each year, the managers compete to win the World CLass Cup and avoid the ever-humiliating Last Place Medallion.</p>
   <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
-  <p>In astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can succesfully type out a coherent trade offer.</p>
+  <p>In astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can successfully type out a coherent trade offer.</p>
   <p>In contrast to the addition of the mini managers, some managers have also left but, despite that, the league has only gotten stronger. With more passionate managers, the competition has become more intense and more difficult each year.</p>
   <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $850 and the coveted World Class League Trophy for that year.</p>
 `;
@@ -91,7 +91,7 @@ export const managers = [
 //      "tradingScale": 10, // 1 - 10
 //      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
-  ]
+]
   
   
   /*   !!  !!  IMPORTANT  !!  !! */
