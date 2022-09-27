@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to The World Class League sponsered by your Local World Class Big Y Market.</p>
-  <p>This league is comprised of 12 individuals who have an emotional or physical connection to the Big Y Supermarket chain. From being a loyal customer to providing the World Class service as an employee the 12 people in this league are committed to nothing less then excellence in both work and their football teams. T</p>
+  <p>This league is comprised of 12 individuals who have an emotional or physical connection to the Big Y Supermarket chain. From being a loyal customer to providing the World Class service as an employee the 12 people in this league are committed to nothing less then excellence in both work and their football teams. </p>
   <p></p>
   <p></p>
   <p></p>
